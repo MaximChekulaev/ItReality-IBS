@@ -1,0 +1,4 @@
+itreality.MainActivity, itreality;md5f65f12d8ec9aa964b9b82ba6610135ca.MainActivity
+itreality.MainActivity, itreality, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f65f12d8ec9aa964b9b82ba6610135ca.MainActivity
+itreality.MainActivity;md5f65f12d8ec9aa964b9b82ba6610135ca.MainActivity
+itreality.MainActivity;md5f65f12d8ec9aa964b9b82ba6610135ca.MainActivity

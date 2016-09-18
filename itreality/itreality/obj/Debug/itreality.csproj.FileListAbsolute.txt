@@ -1,0 +1,54 @@
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\bin\Debug\itreality.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\bin\Debug\itreality.pdb
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\bin\Debug\itreality.itreality.apk
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\bin\Debug\itreality.itreality-Signed.apk
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\itreality.csprojResolveAssemblyReference.cache
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\itreality.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\itreality.pdb
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\android\bin\itreality.itreality.apk
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\res\layout\main.xml
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\res\values\strings.xml
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\res\drawable\icon.png
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\R.cs.flag
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\uploadflags.txt
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Debug\itreality.dll.mdb
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\bin\Debug\itreality.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\itreality.dll
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\itreality.pdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\itreality.itreality.apk
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\itreality.itreality-Signed.apk
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\itreality.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\itreality.dll
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\itreality.pdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\bin\itreality.itreality.apk
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\res\layout\main.xml
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\res\values\strings.xml
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\res\drawable\icon.png
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\R.cs.flag
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\uploadflags.txt
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\itreality.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\mscorlib.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.Core.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.Xml.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\itreality.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\obj\Debug\itreality.dll.mdb
+C:\Users\Максим\Desktop\itreality\itreality\bin\Debug\itreality.dll.mdb

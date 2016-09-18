@@ -1,0 +1,9 @@
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\itreality.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\Java.Interop.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\Mono.Android.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\mscorlib.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\System.Core.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\System.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\System.Xml.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\System.Runtime.Serialization.dll
+c:\users\daniil\documents\visual studio 2015\Projects\itreality\itreality\obj\Release\android\assets\System.ServiceModel.Internals.dll
